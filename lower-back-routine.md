@@ -13,7 +13,7 @@
 4. **Happy Baby** (1 min) - Stretches lower back & hips
 
 ---
-
+✅
 ## Tracking Sheet
 
 ### Week 1
@@ -30,9 +30,9 @@
 | Day | Date | Done | Day | Date | Done |
 |-----|------|------|-----|------|------|
 | Mon | Jun 15 | ☐ | Thu | Jun 18 | ☐ |
-| Tue | Jun 16 | ☐ | **Fri** | **Jun 19** | **📋 REVIEW** |
+| Tue | Jun 16 | ☐ | **Fri** | **Jun 19** | ☐ **📋 REVIEW** |
 | Wed | Jun 17 | ☐ | Sat | Jun 20 | ☐ |
-|     |      |     | Sun | Jun 21 | 🎉 END |
+|     |      |     | Sun | Jun 21 | ☐ 🎉 END |
 
 ---
 
